@@ -87,46 +87,6 @@ body {
         <tr>
           <td><hr /></td>
         </tr>
-        <tr>
-          <td><p>姓名：%%%</p></td>
-        </tr>
-        <tr>
-          <td>性别：男</td>
-        </tr>
-        <tr>
-          <td>年龄：19</td>
-        </tr>
-        <tr>
-          <  TD  >家乡：<  一个 HREF =                 <https://baike.baidu.com/item/%E7%9F%B3%E9%98%A1%E5%8E%BF/5103268?fr=aladdintr>
-          <td>就读院校：<a href="http://baike.baidu.com/item/%E5%9B%9B%E5%B7%9D%E5%A4%A7%%A6">**大学</a></td>
-        </tr>
-        <tr>
-          <td>就读专业：<a href="http://baike.baidu.com/item/%E5%BE%AE%E7%94%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A">微电子科学与工程专业</a></td>
-        </tr>
-        <tr>
-          <td>学生证号：201614#######</td>
-        </tr>
-        <tr>
-          <td>兴趣爱好：听歌，打篮球</td>
-        </tr>
-        <tr>
-          <td>政治面貌：团员</td>
-        </tr>
-        <tr>
-          <td>联系电话：13245676543</td>
-        </tr>
-        <tr>
-          <td>Email:179997256@qq.com</td>
-        </tr>
-        <tr>
-          <td>关键词：学生</td>
-        </tr>
-        <tr>
-          <td> </td>
-        </tr>
-      </table>
-    </div>
-    <img src="img/1497103056360.jpg" width="1398" height="403" /></div>
   <div id="ff">
     <div id="gg">
       <p> </p>
